@@ -30,5 +30,20 @@ The following rating scale can be used to evaluate the severity of usability iss
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
-## Website 01:
+## Website 01: [NOAA Climate.gov] (https://www.climate.gov/)
+
+### About
+Climate.gov project is a collaboration of multiple NOAA (National Oceanic and Atmospheric Administration) offices, who are responsible for being the nation's environmental intelligence agency. The website serves to provide timely and authoritative scientific data and information about climate science, in turn, promoting public understanding of climate-related events and supplying them with tools and resources to make eco-conscious decisions.
+
+The website is filled with a numerous amount of content to meet the needs of different audiences, which can be both accomodating but overwhelming. Each tab at the navigation bar drops down to a multitude of choices and ultimately acts like its own website, rather than parts of a singular cohesive site. My goal would be to simplify these different branches into a more coordinated website, while still maintaining the wealth of information provided.
+
+### Heuristic Evaluation
+
+#### 1. Visibility of System Status
+* While the user's current location is displayed, the presentation could be further emphasized. The current display has the specific tab and subpage written in a small text on a gray bar underneath the navigation bar, which could easily be overlooked by users who focus on the main navigation bar more. 
+
+> Severity Rating: 1 
+> *Recommendation: Display the user location directly on the navigation bar.*
+
+
 ## Website 02:
