@@ -20,4 +20,4 @@ See more about the Heuristic Evaluation [here](https://github.com/cassidytu/DH11
 
 
 ### Presentation
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Ffb7HeYASgMqib0UkTgDNFs%2Fdh-110%3Fnode-id%3D213%253A1746%26t%3D4p3hoqEW7j5BU1wi-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffb7HeYASgMqib0UkTgDNFs%2Fdh-110%3Fnode-id%3D213%253A1746%26scaling%3Dcontain%26page-id%3D44%253A8%26starting-point-node-id%3D213%253A1746" allowfullscreen></iframe>
