@@ -16,8 +16,8 @@ I conducted a Heuristic Evaluation on the websites NOAA Climate.gov and CalEPA
 See more about the Heuristic Evaluation [here](https://github.com/cassidytu/DH110/blob/main/assignments/01.md).
 
 <p align="center">
-  <img src="../images/climategov.png" alt="noaa climate.gov screenshot">
-  <img src="../images/calepa.png" alt="calepa screenshot">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/climategov.png" alt="noaa climate.gov screenshot">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/calepa.png" alt="calepa screenshot">
 </p>
 
 The CalEPA website serves as a means for Californian citizens to easily obtain information and services involving any environmental policy or department, as well as a point of contact between the public and government officials. However, much of the overwhelming amount of information is disorganized and difficult to reach. I chose to conduct a usability test (UT) to gather live feedback from users to further solidify what the website could improve upon to enhance user experience. By observing them while they interact with the product, this method allows for direct commentary from the participant and analysis of their behavior, data that is not possible with a simple heuristic evaluation. I will use my previous heuristic evaluation as a starting point to conduct this UT, narrowing down the top three issues that I wanted to check with users and if they are challenging, unsatisfactory, and/or inefficient.
@@ -25,7 +25,7 @@ The CalEPA website serves as a means for Californian citizens to easily obtain i
 See more about the UT [here](https://github.com/cassidytu/DH110/blob/main/assignments/02.md).
 
 <p align="center">
-  <img src="../images/pilotut.png" alt="pilot ut screenshot">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/pilotut.png" alt="pilot ut screenshot">
 </p>
 
 ### Contexutal Inquiry
@@ -34,7 +34,7 @@ Coming into this project, I was set on the final product I was going to redesign
 See more about the Contextual Inquiry [here](https://github.com/cassidytu/DH110/blob/main/assignments/03.md).
 
 <p align="center">
-  <img src="../images/ci-task1.png" alt="interviewee doing task 1">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/ci-task1.png" alt="interviewee doing task 1">
 </p>
 
 ### Storytelling
@@ -43,8 +43,8 @@ UX storytelling through multiple components (such as personas, empathy maps, sce
 See more about the UX Storytelling [here](https://github.com/cassidytu/DH110/blob/main/assignments/04.md).
 
 <p align="center">
-  <img src="../images/persona1.png">
-  <img src="../images/empathy1.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/persona1.png.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/empathy1.png">
 </p>
 
 ## Design
@@ -54,7 +54,7 @@ The purpose of the low fidelity prototyping is to test the flow and functionalit
 See more about the Low Fidelity Prototype [here](https://github.com/cassidytu/DH110/blob/main/assignments/05.md).
 
 <p align="center">
-  <img src="../images/wireflow.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/wireflow.png">
 </p>
 
 ### Interface Design
@@ -63,8 +63,8 @@ The purpose of this interface design process is to bring the previous paper, low
 See more about the Interface Design [here](https://github.com/cassidytu/DH110/blob/main/assignments/06.md).
 
 <p align="center">
-  <img src="../images/designsystem.png">
-  <img src="../images/blah.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/designsystem.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/blah.png">
 </p>
 
 ### High Fidelity Prototype
@@ -73,11 +73,11 @@ The project is a mobile website that will encourage and entice people of the gen
 See more about the High Fidelity Prototype [here](https://github.com/cassidytu/DH110/blob/main/assignments/07.md).
 
 <p align="center">
-  <img src="../images/digitalwireframe.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/digitalwireframe.png">
 </p>
 
 ## Evaluation
 
 
 ## Presentation
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffb7HeYASgMqib0UkTgDNFs%2Fdh-110%3Fnode-id%3D213%253A1746%26scaling%3Dcontain%26page-id%3D44%253A8%26starting-point-node-id%3D213%253A1746" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" align="center" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffb7HeYASgMqib0UkTgDNFs%2Fdh-110%3Fnode-id%3D213%253A1746%26scaling%3Dcontain%26page-id%3D44%253A8%26starting-point-node-id%3D213%253A1746" allowfullscreen></iframe>
