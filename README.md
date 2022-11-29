@@ -43,7 +43,7 @@ UX storytelling through multiple components (such as personas, empathy maps, sce
 See more about the UX Storytelling [here](https://github.com/cassidytu/DH110/blob/main/assignments/04.md).
 
 <p align="center">
-  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/persona1.png.png">
+  <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/persona1.png">
   <img src="https://github.com/cassidytu/DH110/blob/e77fb905908d6f21777681ec2b9c29c2c1c29d55/images/empathy1.png">
 </p>
 
