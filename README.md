@@ -77,7 +77,16 @@ See more about the High Fidelity Prototype [here](https://github.com/cassidytu/D
 </p>
 
 ## Evaluation
+*Research:*
+While I knew the importance of user research, I didn't realize there was so many different ways to gather data and how each method serves a specific purpose. Learning how a heuristic evaluation provides important, yet different, information compared to a contextual inquiry allowed me to have insight in a multitude of aspects ranging from user behavior to more technical rules of thumb.
 
+*Accessibility:*
+I learned how vital accessibility standards are in terms of color schemes and text, and the difficult and technical process that goes on to make those choices. While designing the interface system, I spent a lot of my time checking the relationship between the background and text colors for contrast, which became the foundation to the colors that I would used. I realized that I every color chosen had to be deliberate and meet standards above my own "preference".
+
+*Consistency:*
+I learned that creating a design system is a pivotal step in UI design, one that I had constantly overlooked in past projects. A cohesive foundation of what spacing, color, font size, etc. is the backbone of having internal consistency to my project design and having a design system made that process easier. While time consuming to set up at first, implementing all the details into my design file, it was very helpful during the hi-fi prototyping process.
 
 ## Presentation
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" align="center" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Ffb7HeYASgMqib0UkTgDNFs%2Fdh-110%3Fnode-id%3D213%253A1746%26scaling%3Dcontain%26page-id%3D44%253A8%26starting-point-node-id%3D213%253A1746" allowfullscreen></iframe>
+
+See more on my video pitch [here](https://youtu.be/tmIOXhhQo7U).
